@@ -1,0 +1,24 @@
+<body bgcolor="NavajoWhite">
+<div align="justify"> 
+<hr color="white">
+<font color="white">
+</div>
+<center>
+<br>
+<br>
+<br>
+<br>
+<h1>Instructions</h1>
+<br>
+<br>
+<h3>1.Listen with headphones</h3>
+<h3>2.Excuse my microphone bullshit</h3>
+<h3>3.At 10:25 take out and read the letter at the same time</h3>
+<br>
+<br>
+<h1>Love you!</h1>
+<h1>K. xx</h1>
+<br>
+<a href="https://www.dropbox.com/s/nhpkcews5gdpzwj/ah.mp4?dl=0"</a><img src="ah.png" align="center" width="200" height="200">
+<hr color="white">
+</body>
